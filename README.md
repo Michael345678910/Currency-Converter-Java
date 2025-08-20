@@ -19,6 +19,8 @@ The CurrencyConverter Java program is a utility tool designed for the Hy-Vee Gro
 # Usage Instructions:
 
 # File Pathway Tree/ File Directory:
+\CurrencyConverter\
+    | --- CurrencyConverter.java
 
 ## Installation & Setup:
 1.	Ensure Java Development Kit (JDK) 11 or higher is installed on your system, alongside a runnable IDE (Such as Eclipse or IntelliJ IDEA).
